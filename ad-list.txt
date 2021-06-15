@@ -11,12 +11,12 @@
 ||static.doubleclick.net^$domain=youtube.com
 ||youtube.com/get_midroll_
 @@||cce.gzu.edu.cn^$important,document
-whoer.net###main > section.section.section_promo.hoster:nth-child(3)
-whoer.net###main > section.section.section_blue.section_plans:nth-child(4)
-whoer.net###plans
-whoer.net###plans
-whoer.net###list-dropdown-services > li.button-languages__list-item--service:first-child > a.button-languages__list-link--service
-whoer.net###wrapper > header.header:first-child > div.header__background:first-child > div.header__wrapper > div.header__right:last-child > nav.header__nav:last-child > a.header__button.button:last-child
-whoer.net###wrapper > div.popup-counter-deal__wrapper.popup-counter-deal__wrapper--fadeIn:nth-child(19) > div.popup-counter-deal:first-child
-whoer.net###wrapper > div.popup-counter-deal__wrapper.popup-counter-deal__wrapper--fadeIn:nth-child(19) > svg.popup-counter-deal__close:last-child > circle:first-child
-whoer.net###wrapper > div.popup-counter-deal__wrapper.popup-counter-deal__wrapper--fadeIn:nth-child(19) > svg.popup-counter-deal__close:last-child > path:last-child
+||whoer.net###main > section.section.section_promo.hoster:nth-child(3)
+||whoer.net###main > section.section.section_blue.section_plans:nth-child(4)
+||whoer.net###plans
+||whoer.net###plans
+||whoer.net###list-dropdown-services > li.button-languages__list-item--service:first-child > a.button-languages__list-link--service
+||whoer.net###wrapper > header.header:first-child > div.header__background:first-child > div.header__wrapper > div.header__right:last-child > nav.header__nav:last-child > a.header__button.button:last-child
+||whoer.net###wrapper > div.popup-counter-deal__wrapper.popup-counter-deal__wrapper--fadeIn:nth-child(19) > div.popup-counter-deal:first-child
+||whoer.net###wrapper > div.popup-counter-deal__wrapper.popup-counter-deal__wrapper--fadeIn:nth-child(19) > svg.popup-counter-deal__close:last-child > circle:first-child
+||whoer.net###wrapper > div.popup-counter-deal__wrapper.popup-counter-deal__wrapper--fadeIn:nth-child(19) > svg.popup-counter-deal__close:last-child > path:last-child
